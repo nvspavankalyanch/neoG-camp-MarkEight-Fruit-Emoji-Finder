@@ -8,6 +8,9 @@ const emojiDictionary = {
   "🍍": "Pineapple",
   "🥭": "Mango",
   "🍅": "Tomato"
+  "🥑": "Avocado",
+  "🍓": "StrawBerry",
+  "🍑": "Peach"
 };
 
 const emojis = Object.keys(emojiDictionary);
